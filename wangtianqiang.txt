@@ -1,2 +1,8 @@
+#！/usr/bin/env python
+print ' thank you "
+"""
 thank you!
 教程很好  一步步学到这里来了 三本书都看的差不多了但是 感觉想做一个专业的开发还是很难得
+
+
+"""
